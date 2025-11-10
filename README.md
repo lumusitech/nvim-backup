@@ -1,4 +1,5 @@
-# 💤 LazyVim
+# 💤 LazyVim with custom tools - @lumusitech
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## TerminalPicker
+
+Manage multiple floating terminals with the command `:TerminalPicker`
