@@ -1,6 +1,6 @@
-# 💤 LazyVim with custom tools - @lumusitech
+# 💤 LazyVim with custom tools for WSL2 - @lumusitech
 
-## 🧠 TerminalPicker - Uso y Atajos Internos
+## 🧠 TerminalPicker - Us y Atajos Internos
 
 La herramienta `:TerminalPicker` permite gestionar terminales flotantes dentro de Neovim. A continuación se detallan los atajos disponibles **dentro de la interfaz** de TerminalPicker y el comportamiento esperado:
 
